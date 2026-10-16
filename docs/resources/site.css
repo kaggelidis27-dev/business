@@ -1,5 +1,12 @@
 /* Rush Consulting – shared site styles */
 
+/* Fonts: hosted on this site (no requests to Google) */
+@font-face { font-family: 'Medula One'; font-style: normal; font-weight: 400; font-display: swap; src: url('fonts/medula-one-400.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url('fonts/inter-400.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url('fonts/inter-500.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url('fonts/inter-600.woff2') format('woff2'); }
+
+
 :root {
   --deep: #123a48;        /* header, hero, footer */
   --teal: #2f748e;        /* brand teal: headings, buttons */
